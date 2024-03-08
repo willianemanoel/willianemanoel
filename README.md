@@ -4,8 +4,8 @@
   <a href="https://github.com/willianemanoel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianemanoel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <a href="https://github.com/willianemanoel">
-  <img src="https://img.icons8.com/color/2x/python.png" width="180" alt="Python"> 
-  <img src="https://img.icons8.com/nolan/2x/mysql.png" width="180" alt="MySQL">
+  <img src="https://img.icons8.com/color/2x/python.png" width="150" alt="Python"> 
+  <img src="https://img.icons8.com/nolan/2x/mysql.png" width="150" alt="MySQL">
 </table>
 
 <div> 
